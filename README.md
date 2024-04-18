@@ -6,7 +6,7 @@
 ## ABOUT ME :
 
 <p>
-I have completed my Diploma degree in computer science and engineering.
+I have completed my diploma degree in computer science and engineering.
 I have also completed many projects using laravel.
 </p>
 
