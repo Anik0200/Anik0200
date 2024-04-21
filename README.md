@@ -1,7 +1,7 @@
 # Hi There, I'm [Anik](https://github.com/Anik0200) 👋
 ### I Love Web Development ❤️‍🔥
 
-<img src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" width="260" alt="">
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="260" alt="">
 
 ## ABOUT ME :
 
