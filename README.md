@@ -18,10 +18,12 @@ I have also completed many projects using laravel.
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge)
 ![JQUERY](https://img.shields.io/badge/JQUERY-black?style=for-the-badge)
 
+
 ### BackEnd -
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-red?style=for-the-badge)
 ![AJAX](https://img.shields.io/badge/AJAX-black?style=for-the-badge)
+![MySql](https://img.shields.io/badge/MySql-green?style=for-the-badge)
 
 ### Tools & IDEs -
 ![vsCode](https://img.shields.io/badge/VS%20CODE-blue?style=for-the-badge)
