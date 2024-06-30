@@ -17,5 +17,5 @@ Eager to grow my skills and contribute to exciting projects, I'm passionate abou
 
 ## 📫 Let's Connect: 
 - Follow me on GitHub: [Anik0200](https://github.com/Anik0200)
-- Connect with me on LinkedIn : [Profile](in/md-abdollah-radi-anik-a48a8a277)
+- Connect with me on LinkedIn : [Profile](md-abdollah-radi-anik-a48a8a277)
 
