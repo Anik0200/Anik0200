@@ -7,13 +7,13 @@ Eager to grow my skills and contribute to exciting projects, I'm passionate abou
 
 ## 🌟 SKILLS:
 
-- Programming Languages: PHP, HTML, CSS, JavaScript (Basic)
-- Library: jQuery (Ajax)
-- Frameworks: Laravel, Bootstrap
-- Database Management: MySQL
-- Version Control: Git, GitHub
-- Tools: Composer, NPM, VS Code, Laragon
-- Concepts: MVC, OOP, ORM
+- Programming Languages: PHP, JavaScript. 
+- Library: jQuery (Ajax).
+- Frameworks: Laravel, Bootstrap, Tailwind.
+- Database: MySQL.
+- Version Control: Git, GitHub.
+- Tools: Composer, NPM, VS Code, Laragon.
+- Concepts: MVC, OOP, ORM.
 
 ## 📫 Let's Connect: 
 - Follow me on GitHub: [Anik0200](https://github.com/Anik0200)
