@@ -8,7 +8,7 @@ Eager to grow my skills and contribute to exciting projects, I'm passionate abou
 ## 🌟 SKILLS:
 
 - Programming Languages: PHP, JavaScript. 
-- Library: jQuery (Ajax).
+- Library: jQuery (Ajax), React Js
 - Frameworks: Laravel, Bootstrap, Tailwind.
 - Database: MySQL.
 - Version Control: Git, GitHub.
