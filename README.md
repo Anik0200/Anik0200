@@ -5,7 +5,7 @@
 I'm an enthusiastic web developer with a keen interest in learning and building applications with Laravel. 
 Eager to grow my skills and contribute to exciting projects, I'm passionate about creating functional and user-friendly web solutions.
 
-## My Portfolio: [Visit](anik0200.xyz)
+## My Portfolio: [Visit](https://anik0200.xyz/)
 
 ## 🌟 SKILLS:
 
@@ -18,7 +18,7 @@ Eager to grow my skills and contribute to exciting projects, I'm passionate abou
 - Concepts: MVC, OOP, ORM.
 
 ## 📫 Let's Connect: 
-- Portfolio: [Visit](anik0200.xyz)
+- Portfolio: [Visit](https://anik0200.xyz/)
 - Follow me on GitHub: [Anik0200](https://github.com/Anik0200)
 - Connect with me on LinkedIn : [Profile](https://www.linkedin.com/in/md-abdollah-radi-anik-a48a8a277)
 
